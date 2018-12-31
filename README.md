@@ -1,4 +1,6 @@
 # ICPC-Practice-Problems
 ACM-ICPC Practice Problems and Solutions
 
-TODO: Convert HTML description into comments at beginning of each solution file.
+A running directory of attempted ACM-ICPC Practice Problems and Solutions
+
+Largely in development, so stay tuned for more updates!
